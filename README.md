@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ### Who am I? 
 
@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I'm deaf, and it's not a prank!
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -37,6 +39,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
 
 ### 📫 How to reach me: ...
 
