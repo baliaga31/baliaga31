@@ -1,24 +1,15 @@
 ## Welcome to my GitHub profile 👋
 
-### Who am I? 
+### About me
 
 🔭 I'm a postdoc researcher in **oncology** and **computational biology**.
 
 ### My main research
 
-My main research project in **cancer plasticity**. By definition, cell plasticity is the ability of cells to change their phenotypes without genetic mutations in response to environmental cues [Ref]. In cancers, plasticity has been proposed as being an important mechanism that, along with genetic and epigenetic alterations, promotes cancer cell diversity and contributes to intra-tumor heterogeneity [ref]. This plasticity can also be involved in drug resistance.
+- My main research project in **cancer plasticity**. By definition, cell plasticity is the ability of cells to change their phenotypes without genetic mutations in response to environmental cues [Ref]. In cancers, plasticity has been proposed as being an important mechanism that, along with genetic and epigenetic alterations, promotes cancer cell diversity and contributes to intra-tumor heterogeneity [ref]. This plasticity can also be involved in drug resistance.
 
 - 🌱 To study cancer plasticity, I choose to develop computational biology approaches. I’m currently learning Machine Learning and system biology.
 - 👯 I’m looking for collaborations on single-cell and spatial multi-omics projects in oncology and aging. Feel free to contact me (see below).
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on cancer
-- 🌱 I’m currently learning Machine Learning and system biology
-- 👯 I’m looking to collaborate on single-cell and spatial multi-omics project
-- 🤔 I’m looking for help with Python and R
-- 💬 Ask me about Cancer, Aging, Epigenomics and Evolution
-- 📫 How to reach me: ...
 
 ### ⚡ Fun fact: 
 
