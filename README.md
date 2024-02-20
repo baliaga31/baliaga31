@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-**baliaga31/baliaga31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I? 
 
-- 🔭 I'm a postdoc researcher in **oncology** and **computational biology**.
+🔭 I'm a postdoc researcher in **oncology** and **computational biology**.
 
-My main research project in cancer plasticity. 
+### My main research is on cancer plasticity
 
-By definition, cell plasticity is the ability of cells to change their phenotypes without genetic mutations in response to environmental cues [Ref]. 
+My main research project in cancer plasticity. By definition, cell plasticity is the ability of cells to change their phenotypes without genetic mutations in response to environmental cues [Ref]. 
 
 In cancers, plasticity has been proposed as being an important mechanism that, along with genetic and epigenetic alterations, promotes cancer cell diversity and contributes to intra-tumor heterogeneity [ref]. 
 
@@ -46,6 +46,5 @@ Here are some ideas to get you started:
 
 https://github.com/baliaga31
 
-https://github-readme-streak-stats.herokuapp.com/?[user=your-github-username](https://github.com/baliaga31)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=baliaga31&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username](https://github.com/baliaga31)&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
