@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 https://github.com/baliaga31
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=baliaga31&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username](https://github.com/baliaga31)&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/baliaga31&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
