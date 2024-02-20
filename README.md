@@ -2,6 +2,20 @@
 
 **baliaga31/baliaga31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 🔭 I'm a postdoc researcher in **oncology** and **computational biology**.
+
+My main research project in cancer plasticity. 
+
+By definition, cell plasticity is the ability of cells to change their phenotypes without genetic mutations in response to environmental cues [Ref]. 
+
+In cancers, plasticity has been proposed as being an important mechanism that, along with genetic and epigenetic alterations, promotes cancer cell diversity and contributes to intra-tumor heterogeneity [ref]. 
+
+This plasticity can also be the origin of drug resistance.
+
+- 🌱 To study cancer plasticity, I choose to develop computational biology approaches. I’m currently learning Machine Learning and system biology.
+- 👯 I’m looking for collaborations on single-cell and spatial multi-omics projects in oncology and aging. Feel free to contact me (see below).
+- 📫 How to reach me: ...
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on cancer
@@ -23,3 +37,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### 📫 How to reach me: ...
+
