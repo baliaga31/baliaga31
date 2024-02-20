@@ -10,7 +10,7 @@ By definition, cell plasticity is the ability of cells to change their phenotype
 
 In cancers, plasticity has been proposed as being an important mechanism that, along with genetic and epigenetic alterations, promotes cancer cell diversity and contributes to intra-tumor heterogeneity [ref]. 
 
-This plasticity can also be the origin of drug resistance.
+This plasticity can also be involved in drug resistance.
 
 - 🌱 To study cancer plasticity, I choose to develop computational biology approaches. I’m currently learning Machine Learning and system biology.
 - 👯 I’m looking for collaborations on single-cell and spatial multi-omics projects in oncology and aging. Feel free to contact me (see below).
@@ -40,3 +40,12 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me: ...
 
+---
+
+### :fire: My Stats :
+
+https://github.com/baliaga31
+
+https://github-readme-streak-stats.herokuapp.com/?[user=your-github-username](https://github.com/baliaga31)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=baliaga31&theme=dark&background=000000)](https://git.io/streak-stats)
