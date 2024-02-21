@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile 👋
 
-### About me
+### :telescope: About me
 
 🔭 I'm a postdoc researcher in **oncology** and **computational biology**.
 
