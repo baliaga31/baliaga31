@@ -2,9 +2,9 @@
 
 ### :telescope: About me
 
-🔭 I'm a postdoc researcher in **oncology** and **computational biology**.
+I'm a postdoc researcher in **oncology** and **computational biology**.
 
-### My main research
+### :microscope: My main research
 
 - My main research project in **cancer plasticity**. By definition, cell plasticity is the ability of cells to change their phenotypes without genetic mutations in response to environmental cues [Ref]. In cancers, plasticity has been proposed as being an important mechanism that, along with genetic and epigenetic alterations, promotes cancer cell diversity and contributes to intra-tumor heterogeneity [ref]. This plasticity can also be involved in drug resistance.
 
